@@ -1,0 +1,59 @@
+OnBase Workflow Designer
+OnBase Workflow Designer
+
+AST is seeking an OnBase Workflow Designer. This
+role is responsible for providing business analysis
+services with the overall objective of implementing
+workflow solutions using Hyland OnBase software
+and associated modules. If you are interested in the
+OnBase Workflow Designer role and your
+experience matches the job description below, we
+encourage you to apply!
+Responsibilities:
+Practitioner in the OnBase workflow tool suite, to translate business needs into
+OnBase solutions through collaboration with business management.
+Identify and translate complex business requirements and processes into
+structured workflow steps and decision points.
+Develop and build solutions that leverage OnBase technologies to improve
+operational effectiveness via improved service quality and efficiency.
+Prepare required process and procedural specification documents, test plans,
+end user training material, OnBase configuration document and production of
+solution support documentation.
+Conduct testing of workflow solutions in concern with business area SMEs to
+ensure performance is designed; resolve any issues through formal Issue
+Management.
+Develop indexing for document types, keywords, and role-based permissions
+from technical specifications/systems requirements documentation.
+Design and develop Workflows from technical specifications/systems
+requirements documentation.
+Create Document Composition Templates and integrate with OnBase.
+Develop plan for migration of business solutions into production environment and
+support OnBase solution throughout migration process in collaboration with IT,
+through formal Change Control Process.
+Troubleshoot OnBase configuration, system integrations and security issues.
+Act as administrator for OnBase tool for access provisioning, queue setup,
+taxonomy maintenance and troubleshooting of related areas, excluding technical
+environments and OnBase code.
+OnBase Workflow Designer
+OnBase Workflow Designer
+Qualifications:
+Bachelor’s Degree or 3 – 5 years of equivalent work experience.
+Experience in business analysis and documenting functional requirements
+through process mapping and process design techniques.
+Experience working within a collaborative team structure to achieve business
+results with specific focus on the customer experience.
+An understanding of workflow based logic and the ability to both understand a
+business process from a workflow diagram, and to illustrate a written process
+description as a workflow diagram.
+Knowledge and experience running facilitated working sessions with identified
+deliverables.
+Able to thrive in a fast paced, deadline driven environment.
+Speak and write with ease, clarity and impact, using a communication style
+appropriate to the subject matter and audience.
+Good at investigating situations or issues to get relevant information; adept at
+asking probing questions to successfully obtain quality information.
+Good collaboration skills, applied successfully within teams as well as across
+other areas.
+Knowledge of the Agile methodology for managing projects is an asset.
+Knowledge of Object Oriented practices an asset
+An understanding of formal change control procedures and disciplines.
